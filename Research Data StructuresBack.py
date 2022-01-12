@@ -19,3 +19,4 @@
 #1 or more use cases (why would you use this data structure instead of the others)
 #Each paragraph should be 3-5 sentences
 
+#Array is a data structure that source elements of the same data in a secuential order. Two dimentional arrays 
