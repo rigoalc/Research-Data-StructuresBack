@@ -1,9 +1,14 @@
+# Rodrigo Alcover
+# 01142022
+# CIS-226-23199
+# Advanced Python Programming
+
 #Research Data StructuresBack
 
 
 #Research different types of Data Structures. 
-# These Data Structures are used in many different programming languages, 
-# so you don't need to find Python specific information, although it is suggested.
+#These Data Structures are used in many different programming languages, 
+#so you don't need to find Python specific information, although it is suggested.
 
 #Requirements for credit (all must be satisfied):
 #Header with your name, date, CRN, and class name
